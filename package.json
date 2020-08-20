@@ -19,7 +19,7 @@
     "mocha": "^6.2.0",
     "zombie": "^6.1.4",
     "helmet": "^3.21.0",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "uniqid": "^5.0.3"
   },
   "engines": {
